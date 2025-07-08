@@ -41,17 +41,9 @@ Donde:
 ### 🛠️ Tecnologías
 
 - Solidity `^0.8.22`
-- OpenZeppelin Contracts `^5.0.0`
 - Remix + MetaMask + Scroll Sepolia testnet
 
----
 
-### ✅ Objetivos académicos
-
-Este proyecto fue desarrollado como parte de una práctica final para comprender:
-- El funcionamiento básico de los exchanges descentralizados
-- El modelo AMM con producto constante
-- La interacción entre múltiples contratos inteligentes ERC-20
 
 ---
 
