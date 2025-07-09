@@ -32,9 +32,9 @@ Donde:
 
 ### 📦 Contratos desplegados en Scroll Sepolia
 
-- 🪙 **TokenA**: [`0x1236D8A9CEC13c4ba13464574297bbb1958cB033`]
-- 🪙 **TokenB**: [`0x212fce43221e35b6FA4302f5C1a262850B34f105`]
-- 🔁 **SimpleDEX**: [`0xA83eA4B94a93B68D33BF52c308cd64cACfec3758`]
+- 🪙 **TokenA**: [`0x436Dee1cb61c53739cf64717508f97E512a0608A https://sepolia.etherscan.io/token/0x436dee1cb61c53739cf64717508f97e512a0608a#code`  ]
+- 🪙 **TokenB**: [`0x9FAfB9DeD27ccAe20F4C7d55A6a6158C41eE74AF  https://sepolia.etherscan.io/address/0x9FAfB9DeD27ccAe20F4C7d55A6a6158C41eE74AF#code` ]
+- 🔁 **SimpleDEX**: [`0xEd152fC19C23DD94f029AbEC4f4Fb3ffA53B41cb https://sepolia.etherscan.io/address/0xEd152fC19C23DD94f029AbEC4f4Fb3ffA53B41cb#code`]
 
 ---
 
